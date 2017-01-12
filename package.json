@@ -1,0 +1,17 @@
+{
+  "name": "css-reduce",
+  "version": "0.1.0",
+  "description": "Simple task to help reduce css bloat",
+  "license": "MIT",
+  "private": false,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:cannjeff/css-reduce.git"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "css": "^2.2.1",
+    "underscore": "^1.8.3"
+  }
+}
