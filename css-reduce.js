@@ -97,7 +97,7 @@ _.forEach(ruleMap, function ( rule ) {
 				console.log(dupLogs[i]);
 			}
 		}
-	});3
+	});
 });
 
 /* Determine original file size */
